@@ -13,6 +13,6 @@ public interface NewInterface {
 	    void overrideMethod(String str);
 	    
 	    default void turnAlarmOn() {
-	        System.out.println("Hello, default Method is Here");
+	        System.out.println(" default Method is Here");
 	    }
 }
