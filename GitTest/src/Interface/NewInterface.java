@@ -5,7 +5,7 @@ public interface NewInterface {
 	
 	 static void staticMethod()
 	    {
-	        System.out.println("Hello, New Static Method Here");
+	        System.out.println("Hello");
 	    }
 	  
 	 
